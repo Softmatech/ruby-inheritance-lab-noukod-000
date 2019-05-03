@@ -1,4 +1,4 @@
-class user
+class User
 
     attr_accessor :firstname, :lastname
 
